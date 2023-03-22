@@ -1,2 +1,3 @@
 # hello-world
-Hello World Reposito
+Hello World Repository
+Hello my name is Tomi
